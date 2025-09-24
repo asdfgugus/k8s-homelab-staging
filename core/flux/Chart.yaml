@@ -1,0 +1,11 @@
+apiVersion: v2
+name: flux2
+description: flux operator for CD
+type: application
+
+version: 0.1.0
+
+dependencies:
+  - name: flux2
+    version: 2.16.4
+    repository: https://fluxcd-community.github.io/helm-charts

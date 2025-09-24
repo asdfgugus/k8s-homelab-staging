@@ -1,0 +1,5 @@
+upgradeCompatibility: "1.19"
+policyEnforcementMode: "always"
+kubeProxyReplacement: true
+
+rollOutCiliumPods: true
